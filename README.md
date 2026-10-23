@@ -38,26 +38,26 @@
 - 🎯 Focused on improving my coding skills through real projects.
 - 🤝 Open to collaboration and new opportunities.
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheanswerisZERO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheanswerisZERO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TheanswerisZERO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://github.com/TheanswerisZERO">
@@ -67,21 +67,22 @@
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 MERN E-commerce
+### MERN E-commerce
 Full-stack e-commerce application built with React,
 Node.js, Express and MongoDB.
 
-- [Live Demo](https://example.com)
-- [Source Code](https://github.com/TheanswerisZERO)
+- [Live Demo](https://www.berelara.com/#/)
 
-### 🌐 My Portfolio
-A personal portfolio showcasing my projects and skills.
+### Startup 
+Corporate website for a climate control and environmental comfort company.
+HTML, CSS AND JS.
 
-- [Visit Portfolio](https://example.com)
+- [Live Demo](https://progressive.es/)
 
-### 💻 Web Development Projects
+
+### Web Development Projects
 Explore my repositories and coding practice.
 
 - [View All Projects](https://github.com/TheanswerisZERO?tab=repositories)
