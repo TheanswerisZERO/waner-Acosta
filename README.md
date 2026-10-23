@@ -1,3 +1,28 @@
+
+<h1 align="center">Hi, I'm Waner</h1>
+
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="./waner.jpg" width="180" alt="Waner">
+    </td>
+    <td valign="middle">
+      <h3>Aspiring Full Stack Developer</h3>
+      <p>
+        I'm learning web development and building projects
+        with JavaScript, React, Node.js, Express and MongoDB.
+      </p>
+      <p>
+        🚀 Always learning and building new things.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <p align="center">
   <img src="./waner.jpg" width="200" alt="Mi foto">
 </p>
