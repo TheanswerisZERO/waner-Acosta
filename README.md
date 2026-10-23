@@ -7,35 +7,21 @@
       <img src="./waner.jpg" width="180" alt="Waner">
     </td>
     <td valign="middle">
-      <h3>Aspiring Full Stack Developer</h3>
+      <h3>Aspiring Full-Stack Developer | MERN Stack</h3>
       <p>
-        I'm learning web development and building projects
+       I'm a Computer Science graduate passionate about web development.
+  I enjoy building projects, learning new technologies, and improving
+  my skills through hands-on practice. 
+  Aspiring Full-Stack Developer | React, Node.js, Express &amp; MongoDB | Building projects and learning every day. I'm learning web development and building projects
         with JavaScript, React, Node.js, Express and MongoDB.
       </p>
       <p>
-        🚀 Always learning and building new things.
+      Always learning and building new things.
       </p>
     </td>
   </tr>
 </table>
 
-
-
-
-
-<p align="center">
-  <img src="./waner.jpg" width="200" alt="Mi foto">
-</p>
-<h1 align="center">Hi, I'm Waner </h1>
-
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack</h3>
-
-<p align="center">
-  I'm a Computer Science graduate passionate about web development.
-  I enjoy building projects, learning new technologies, and improving
-  my skills through hands-on practice. 
-  Aspiring Full-Stack Developer | React, Node.js, Express &amp; MongoDB | Building projects and learning every day.
-</p>
 
 <p align="center">
   <a href="https://github.com/TheanswerisZERO">
