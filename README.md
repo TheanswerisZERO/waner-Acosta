@@ -1,4 +1,4 @@
-# waner-Acosta
+# Waner Acosta
 
 ## 🛠️ Tecnologías y herramientas
 
