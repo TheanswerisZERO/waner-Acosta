@@ -52,7 +52,27 @@
   </a>
 </p>
 
----
+
+
+## 🚀 Featured Projects
+
+### 🛒 MERN E-commerce
+Full-stack e-commerce application built with React,
+Node.js, Express and MongoDB.
+
+- [Live Demo](https://example.com)
+- [Source Code](https://github.com/TheanswerisZERO)
+
+### 🌐 My Portfolio
+A personal portfolio showcasing my projects and skills.
+
+- [Visit Portfolio](https://example.com)
+
+### 💻 Web Development Projects
+Explore my repositories and coding practice.
+
+- [View All Projects](https://github.com/TheanswerisZERO?tab=repositories)
+
 
 <p align="center">
   <i>Learning, building, and improving one project at a time.</i>
