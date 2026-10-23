@@ -1,6 +1,3 @@
-# Waner Acosta
-
-## 🛠️ Tecnologías y herramientas
 
 <h1 align="center">Hi, I'm Waner </h1>
 
