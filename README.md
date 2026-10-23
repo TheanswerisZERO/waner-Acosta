@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./waner.jpg" width="200" alt="Mi foto">
+</p>
 <h1 align="center">Hi, I'm Waner </h1>
 
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack</h3>
